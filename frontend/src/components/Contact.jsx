@@ -395,7 +395,7 @@ const Contact = () => {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/om-naitam"
+              href="www.linkedin.com/in/om-naitam-5837972b3"
               target="_blank"
               rel="noreferrer"
               className="text-white/50 hover:text-white transition-colors"
