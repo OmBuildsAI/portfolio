@@ -25,7 +25,7 @@ const contactCards = [
   {
     label: "LinkedIn",
     value: "linkedin.com/in/om-naitam",
-    href: "https://linkedin.com/in/om-naitam",
+    href: "https://linkedin.com/in/om-naitam-5837972b3",
     accentColor: "#bc00ff",
     shadow: "4px 4px 0px 0px #bc00ff",
   },
